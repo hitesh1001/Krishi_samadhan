@@ -7,7 +7,7 @@ Features
 
 Technologies Used
 
-    Front-End: [Specify the technologies you used, e.g., React, Redux]
-    Back-End: [Specify the technologies you used, e.g., Node.js, Express]
-    Database: [Specify the database you used, e.g., MongoDB]
+    Front-End: [ React, Redux ]
+    Back-End: [ Node.js, Express ]
+    Database: [ MongoDB ] 
  
