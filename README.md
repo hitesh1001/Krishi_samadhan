@@ -1,3 +1,6 @@
+
+Live on : https://krishi-samadhan-2.vercel.app
+
 Krishi-Samadhan is a dedicated portal designed to support farmers by providing a platform for direct interaction with agricultural experts. The portal facilitates an efficient Q&A interface, allowing farmers to seek guidance and receive expert advice on various farming-related issues.
 Features
 
